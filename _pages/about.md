@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- # **My homepage** -->
-
-> *Fear can hold you prisoner. Hope can set you free.* -- The Shawshank Redemption
-
+---
+> _"Fear can hold you prisoner. Hope can set you free."_ -- The Shawshank Redemption
+---
 Hi! Currently, I am a second year graduate student at Renmin University of China. I enjoy running and reading, and my interest typically lies in philosophy.
