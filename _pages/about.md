@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# **My homepage**
+<!-- # **My homepage** -->
 
-Hi! Currently, I am a second year graduate student from Renmin University of China. I enjoy running and reading, and my interest typically lies in philosophy.
+Hi! Currently, I am a second year graduate student at Renmin University of China. I enjoy running and reading, and my interest typically lies in philosophy.
